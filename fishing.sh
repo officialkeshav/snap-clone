@@ -1,4 +1,4 @@
- echo -e '\e[91m               
+ echo -e '\e[93m               
                          __________
                       .~#########%%;~.
                      /############%%;`\
@@ -11,15 +11,15 @@
  XXXXX.....XX      \#########/\;;;;;;,, /      XX.....XXXXX
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
-echo -e '\e[95mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@     Instagram   @#%,.@        
+echo -e '\e[94mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
+ X# \.X        @#%,.@     SNAPCHAT    @#%,.@        
                 @#%,.@    fishing   @#%,.@          
                   @#%,.@    PAGE  @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
                         keshav Gupta
                INSTAGRAM:- official_.keshav'
-                echo -e '\e[93m CODED BY KESHAV'
+                echo -e '\e[92m CODED BY KESHAV'
 
 echo  -ne "\e[92m Enter Your port number :-" |lolcat
 
